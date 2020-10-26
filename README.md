@@ -68,5 +68,5 @@ In this project, we will be deploying we servers for a highly available web app 
 
 ## URL
 ```
-http://udagr-WebAp-XAIOM2XE9PMG-224008081.us-west-2.elb.amazonaws.com
+
 ```
